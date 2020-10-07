@@ -19,7 +19,7 @@
 
 ### 開発用のツール
 * [git](https://git-scm.com/)
-* Xcode
+* Xcode（Macのアプリストアでダウンロード）
 * [Android Studio](https://developer.android.com/studio)
 * [Visual Code](https://code.visualstudio.com/)
 * [Source Tree（おすすめ）](https://www.sourcetreeapp.com/)
